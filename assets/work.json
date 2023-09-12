@@ -1,0 +1,54 @@
+[
+    {
+        "puesto":"Desarrollador junior",
+        "empresa":"Facebook corp",
+        "fecha_inicio":"05/2020",
+        "fecha_fin":"09/2021",
+        "ciudad":"Orizaba",
+        "pais":"México",
+        "logros": [
+            "home page",
+             "shopping cart",
+            " home page" 
+        ]
+    },
+    {
+        "puesto":"Front end developer",
+        "empresa":"Gecosoft",
+        "fecha_inicio":"09/2021",
+        "fecha_fin":"09/2022",
+        "ciudad":"Orizaba",
+        "pais":"México",
+        "logros": [
+            "home page",
+            "shopping cart",
+             " home page" 
+        ]
+    },
+    {
+        "puesto":"Back end developer",
+        "empresa":"Oreo",
+        "fecha_inicio":"09/2021",
+        "fecha_fin":"09/2022",
+        "ciudad":"Orizaba",
+        "pais":"México",
+        "logros": [
+        "home page",
+        "shopping cart",
+        " home page" 
+    ]
+    },
+    {
+        "puesto":"Back end developer",
+        "empresa":"google",
+        "fecha_inicio":"09/2021",
+        "fecha_fin":"09/2022",
+        "ciudad":"Orizaba",
+        "pais":"México",
+        "logros": [
+        "1",
+        "2",
+        " 3" 
+    ]
+    }
+]

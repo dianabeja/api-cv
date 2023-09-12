@@ -1,0 +1,22 @@
+[
+    {
+        "skill":"fake",
+        "area":"a",
+        "nivel":"1"
+    },
+    {
+        "skill":"fake",
+        "area":"b",
+        "nivel":"1"
+    },
+    {
+        "skill":"fake",
+        "area":"c",
+        "nivel":"2"
+    },
+    {
+        "skill":"fake",
+        "area":"d",
+        "nivel":"3"
+    }
+]

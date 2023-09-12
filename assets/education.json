@@ -1,0 +1,20 @@
+[
+    {
+        "gradoEscolar":"Secundaria",
+        "nombreEscuela":"Secundaria Técnica Industrial No.4",
+        "fecha_inicio":"08/2015",
+        "fecha_fin":"07/2018"
+    },
+    {
+        "gradoEscolar":"Bachillerato",
+        "nombreEscuela":"Colegio Preparatorio de Orizaba",
+        "fecha_inicio":"08/2018",
+        "fecha_fin":"07/2021"
+    },
+    {
+        "gradoEscolar":"Universidad",
+        "nombreEscuela":"Universidad Veracruzana",
+        "fecha_inicio":"08/2021",
+        "fecha_fin":"Actualidad"
+    }
+]

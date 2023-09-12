@@ -1,0 +1,20 @@
+[
+    {
+        "nombre":"Pandas",
+        "descripcion":"Hecho en Kaggle",
+        "duracion":"5 días",
+        "imagen":"fake"
+    },
+    {
+        "nombre":"Python",
+        "descripcion":"Hecho en Kaggle",
+        "duracion":"5 días",
+        "imagen":"fake"
+    },
+    {
+        "nombre":"Inglés",
+        "descripcion":"Centro de Idiomas, Universidad Veracruzana",
+        "duracion":"2 años",
+        "imagen":"fake"
+    }
+]
