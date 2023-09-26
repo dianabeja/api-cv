@@ -26,7 +26,7 @@ app.get('/skills', (req, res, next) => {
 });
 
 app.get('/certificados', (req, res, next) => {
-	res.sendfile("assets/certiicados.json");
+	res.sendfile("assets/certificados.json");
 });
 
 app.get('/education', (req, res, next) => {

@@ -1,7 +1,9 @@
 {
-    "interes1":"Literatura",
-    "interes2":"Música",
-    "interes3":"Arte digital",
-    "interes4":"Documentales",
-    "interes5":"Animales"
+    "intereses": [
+        "Literatura",
+        "Música",
+        "Arte Digital",
+        "Documentales",
+        "Animales"
+    ]
 }

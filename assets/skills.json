@@ -1,22 +1,23 @@
 [
     {
-        "skill":"fake",
-        "area":"a",
-        "nivel":"1"
+        "skill": "Desarrollo de API con NestJS",
+        "area": "Frameworks Backend",
+        "nivel": "Avanzado"
     },
     {
-        "skill":"fake",
-        "area":"b",
-        "nivel":"1"
+        "skill": "Gestión de bases de datos con SQL",
+        "area": "Bases de Datos",
+        "nivel": "Intermedio"
     },
     {
-        "skill":"fake",
-        "area":"c",
-        "nivel":"2"
-    },
+        "skill": "Desarrollo de aplicaciones front-end con Angular",
+        "area": "Frameworks y Librerías Frontend",
+        "nivel": "Básico"
+    }
+    ,
     {
-        "skill":"fake",
-        "area":"d",
-        "nivel":"3"
+        "skill": "Desarrollo de aplicaciones front-end con React",
+        "area": "Frameworks y Librerías",
+        "nivel": "Básico"
     }
 ]
