@@ -37,6 +37,9 @@ app.get('/interest', (req, res, next) => {
 	res.sendfile("assets/interest.json");
 });
 
+app.get('/hours', (req, res, next) => {
+	res.sendfile("assets/1a_dev_hours.json");
+});
 
 app.listen(port, () =>
 	console.log('listening on port ' + port
